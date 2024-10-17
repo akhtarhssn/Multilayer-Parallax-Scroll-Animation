@@ -31,8 +31,10 @@ header {
     padding-inline: 20px;
 }
 
-header .logo img {
+header .logo {
     height: 30px;
+    font-weight: bolder;
+    font-size: 32px;
 }
 
 header nav ul {
